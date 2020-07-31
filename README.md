@@ -14,3 +14,26 @@ Modules and softwares you need to install :
 1.Selenium Module
 2. Geckodriver
 ```
+### Installing
+Installing Selenium Module
+```
+You can install Selenium module with pip command 
+pip instal selenium
+```
+Installing Geckodriver
+```
+You can download the geckodriver.exe file from Selenium official website.
+Here's the link from where you can download: [Geckodriver](https://www.selenium.dev/downloads/)
+Then you have to mention the path of geckodriver.exe inide the code
+```
+## Running the tests
+You have to just follow the prerequisites and have to run the code in your ide.
+
+## Authors
+* **A Hareharun** - *Initial work* - [LinkedIn Profile](https://www.linkedin.com/in/hareharun-amirrdanandaswami-962662180/)
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
