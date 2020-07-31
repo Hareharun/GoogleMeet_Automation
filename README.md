@@ -23,7 +23,8 @@ pip instal selenium
 Installing Geckodriver
 ```
 You can download the geckodriver.exe file from Selenium official website.
-Here's the link from where you can download: [Geckodriver](https://www.selenium.dev/downloads/)
+Here's the link from where you can download 
+[Geckodriver](https://chromedriver.storage.googleapis.com/index.html?path=84.0.4147.30/)
 Then you have to mention the path of geckodriver.exe inide the code
 ```
 ## Running the tests
